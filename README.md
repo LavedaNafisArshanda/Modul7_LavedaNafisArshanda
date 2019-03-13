@@ -26,3 +26,13 @@ Contoh kode query :
 $query = "DELETE FROM dosen WHERE id_dosen = $id_dosen";
 $result = mysqli_query($connect, $query);
 $num = mysqli_affected_rows($connect);
+
+
+
+![alt text](https://github.com/LavedaNafisArshanda/Modul7_LavedaNafisArshanda/blob/master/SIUNIV/dosen/1.JPG)
+![alt text](https://github.com/LavedaNafisArshanda/Modul7_LavedaNafisArshanda/blob/master/SIUNIV/dosen/2.JPG)
+![alt text](https://github.com/LavedaNafisArshanda/Modul7_LavedaNafisArshanda/blob/master/SIUNIV/dosen/2.1.JPG)
+![alt text](https://github.com/LavedaNafisArshanda/Modul7_LavedaNafisArshanda/blob/master/SIUNIV/dosen/3.JPG)
+![alt text](https://github.com/LavedaNafisArshanda/Modul7_LavedaNafisArshanda/blob/master/SIUNIV/dosen/4.JPG)
+![alt text](https://github.com/LavedaNafisArshanda/Modul7_LavedaNafisArshanda/blob/master/SIUNIV/dosen/5.JPG)
+![alt text](https://github.com/LavedaNafisArshanda/Modul7_LavedaNafisArshanda/blob/master/SIUNIV/dosen/7.JPG)
